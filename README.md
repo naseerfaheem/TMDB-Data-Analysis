@@ -1,9 +1,8 @@
-## Udacity : Invistigate a Dataset: TMDB Dataset
-
+## Udacity : Invistigate a Dataset- TMDB Dataset:
 
 
 ### Introduction: 
-In this project I am going to analyze a dataset provided by TMDB through Udacity's Data Analyst Nano Degree. I am going to be asking the questions below and communicating the findings visually. 
+In this project I am going to analyze a dataset provided by TMDB through Udacity's Data Analyst Nanodegree. I am going to ask the questions below and communicate the findings visually via charts and histograms. 
 
     1. Are movies with higher budget more profitable?
     2. What movie genres are the most profitable?
@@ -12,6 +11,7 @@ In this project I am going to analyze a dataset provided by TMDB through Udacity
     
     
 ### Installation : 
+
 
 In order to analyze the dataset, we will need to have numpy, pandas, matplotlib and seaborn libraries installed. We also need to have the (tmdb-movies.csv) file in the same folder as the Ipython file. 
 
